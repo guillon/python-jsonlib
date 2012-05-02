@@ -1,0 +1,12 @@
+
+jsonlib is a simple library for manipulating hierarchical dictionaries.
+
+Install with:
+$ ./setup.py build
+$ ./test.py
+$ sudo ./setup.py install
+
+Ref to setup.py or PKG-INFO in source distributions for authors, copying and license.
+
+This module requires jsonpath >= 0.57, upload and install it from:
+http://pypi.python.org/pypi/jsonpath/
